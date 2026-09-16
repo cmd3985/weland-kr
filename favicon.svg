@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="위랜드경매">
+  <style>
+    .line { fill: #171622; }
+    .baseline { fill: #6552d9; }
+    .dashed { fill: #5a5868; }
+    @media (prefers-color-scheme: dark) {
+      .line { fill: #f4f1ff; }
+      .baseline { fill: #a99cff; }
+      .dashed { fill: #bbb6cc; }
+    }
+  </style>
+  <rect class="line" x="4" y="7" width="24" height="3" rx="1.5"/>
+  <rect class="baseline" x="4" y="14" width="24" height="5" rx="2.5"/>
+  <rect class="dashed" x="4" y="23" width="5" height="3" rx="1.5"/>
+  <rect class="dashed" x="11" y="23" width="5" height="3" rx="1.5"/>
+  <rect class="dashed" x="18" y="23" width="5" height="3" rx="1.5"/>
+  <rect class="dashed" x="25" y="23" width="3" height="3" rx="1.5"/>
+</svg>
